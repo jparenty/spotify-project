@@ -12,7 +12,7 @@ project
 │   │   spotify_data_collection.py
 │   
 └───figures
-    │   ...
+│   │   ...
 │   
 └───data
     │    dataset_variable_description.xlsx
